@@ -1,0 +1,3 @@
+C:/Users/turing/project/c++/cpplearn/cmake-build-debug/CMakeFiles/cpplearn.dir
+C:/Users/turing/project/c++/cpplearn/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/turing/project/c++/cpplearn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
